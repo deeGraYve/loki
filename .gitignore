@@ -3,3 +3,4 @@
 cmd/loki/loki
 pkg/zipkin-ui/bindata.go
 loki
+.idea
